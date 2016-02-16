@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11451" started-at="2016-02-14T20:37:56Z" finished-at="2016-02-14T20:38:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11451" started-at="2016-02-14T20:37:56Z" finished-at="2016-02-14T20:38:08Z">
+      <class name="lazer.SecondTestNG.NewTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:lazer.SecondTestNG.NewTest@73e1518e]" name="beforeMethod" is-config="true" duration-ms="4" started-at="2016-02-14T15:37:56Z" finished-at="2016-02-14T15:37:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testGoogle()[pri:0, instance:lazer.SecondTestNG.NewTest@73e1518e]" name="testGoogle" duration-ms="11425" started-at="2016-02-14T15:37:56Z" finished-at="2016-02-14T15:38:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogle -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:lazer.SecondTestNG.NewTest@73e1518e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-02-14T15:38:08Z" finished-at="2016-02-14T15:38:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- lazer.SecondTestNG.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
