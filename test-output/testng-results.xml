@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="11451" started-at="2016-02-14T20:37:56Z" finished-at="2016-02-14T20:38:08Z">
+  <suite name="Default suite" duration-ms="10831" started-at="2016-02-21T17:51:24Z" finished-at="2016-02-21T17:51:35Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="11451" started-at="2016-02-14T20:37:56Z" finished-at="2016-02-14T20:38:08Z">
+    <test name="Default test" duration-ms="10831" started-at="2016-02-21T17:51:24Z" finished-at="2016-02-21T17:51:35Z">
       <class name="lazer.SecondTestNG.NewTest">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:lazer.SecondTestNG.NewTest@73e1518e]" name="beforeMethod" is-config="true" duration-ms="4" started-at="2016-02-14T15:37:56Z" finished-at="2016-02-14T15:37:56Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:lazer.SecondTestNG.NewTest@d53b61e]" name="beforeMethod" is-config="true" duration-ms="6" started-at="2016-02-21T12:51:24Z" finished-at="2016-02-21T12:51:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="testGoogle()[pri:0, instance:lazer.SecondTestNG.NewTest@73e1518e]" name="testGoogle" duration-ms="11425" started-at="2016-02-14T15:37:56Z" finished-at="2016-02-14T15:38:08Z">
+        <test-method status="PASS" signature="testGoogle()[pri:0, instance:lazer.SecondTestNG.NewTest@d53b61e]" name="testGoogle" duration-ms="10801" started-at="2016-02-21T12:51:24Z" finished-at="2016-02-21T12:51:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGoogle -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:lazer.SecondTestNG.NewTest@73e1518e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-02-14T15:38:08Z" finished-at="2016-02-14T15:38:08Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:lazer.SecondTestNG.NewTest@d53b61e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-02-21T12:51:35Z" finished-at="2016-02-21T12:51:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
